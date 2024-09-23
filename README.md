@@ -28,21 +28,7 @@ This portfolio highlights my educational background, projects focused on women e
 - HTML5
 - CSS3
 
-## Installation
-
-To run this portfolio locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd your-portfolio
-   ```
-
-3. Open `index.html` in your web browser.
+## Live Server:https://asmaaxo.github.io/Asmaa-Portfolio/
 
 ## Usage
 
